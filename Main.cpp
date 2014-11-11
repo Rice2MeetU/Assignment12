@@ -1,5 +1,12 @@
-//author: Alex Saenbandith
+//author: Alex Saenbandith and Seirra Smith
 //date:  November 5, 2014
+//description: A simple program that displays two 3D models and several textures as hanging "paintings". The
+// user can change the position of the two lights on the models by holding either shift or ctrl and dragging
+// the left mouse button along the screen. Different lighting can be achieved by right clicking to open up the menu.
+// The various images can be animated using the menu as well which will display on the right wall.
+// Proposed points: (14 or 15?) The program meets all the basic criteria as well as using unique 3D models and animation. The
+// question mark comes into play because whether or not the program is "cool" or interesting enough to earn the last two
+// points is really up in the air. Though I do feel that there is enough work put in that we should at least get 1 point
 
 #define _CRT_SECURE_NO_WARNINGS
 
