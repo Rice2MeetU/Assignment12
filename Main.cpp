@@ -1981,7 +1981,7 @@ int main(int argc, char **argv) {
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
 	glutInitWindowPosition(100, 100);
 	glutInitWindowSize(WIDTH, HEIGHT);
-	glutCreateWindow("Assignment 12");
+	glutCreateWindow("Attempting to be cool");
 	init();
 
 	glutReshapeFunc(reshape);

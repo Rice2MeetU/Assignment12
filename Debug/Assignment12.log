@@ -1,16 +1,18 @@
-﻿Build started 11/11/2014 9:48:08 AM.
-     1>Project "C:\Users\Alex Saenbandith\Documents\Drake\Fall 2014\CS 147\Projects\Assignment12\Assignment12.vcxproj" on node 2 (Build target(s)).
+﻿Build started 11/11/2014 10:45:52 AM.
+     1>Project "C:\Users\Alex Saenbandith\Desktop\Project12\Assignment12.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt glm.cpp Main.cpp
          Main.cpp
-     1>c:\users\alex saenbandith\documents\drake\fall 2014\cs 147\projects\assignment12\main.cpp(20): warning C4005: 'M_PI' : macro redefinition
-                 c:\users\alex saenbandith\documents\drake\fall 2014\cs 147\projects\assignment12\glm.h(26) : see previous definition of 'M_PI'
+     1>c:\users\alex saenbandith\desktop\project12\main.cpp(27): warning C4005: 'M_PI' : macro redefinition
+                 c:\users\alex saenbandith\desktop\project12\glm.h(26) : see previous definition of 'M_PI'
+         glm.cpp
+         Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex Saenbandith\Documents\Drake\Fall 2014\CS 147\Projects\Assignment12\Debug\Assignment12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alex Saenbandith\Documents\Drake\Fall 2014\CS 147\Projects\Assignment12\Debug\Assignment12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex Saenbandith\Documents\Drake\Fall 2014\CS 147\Projects\Assignment12\Debug\Assignment12.lib" /MACHINE:X86 Debug\glm.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex Saenbandith\Desktop\Project12\Debug\Assignment12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alex Saenbandith\Desktop\Project12\Debug\Assignment12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex Saenbandith\Desktop\Project12\Debug\Assignment12.lib" /MACHINE:X86 Debug\glm.obj
          Debug\Main.obj
-         Assignment12.vcxproj -> C:\Users\Alex Saenbandith\Documents\Drake\Fall 2014\CS 147\Projects\Assignment12\Debug\Assignment12.exe
-     1>Done Building Project "C:\Users\Alex Saenbandith\Documents\Drake\Fall 2014\CS 147\Projects\Assignment12\Assignment12.vcxproj" (Build target(s)).
+         Assignment12.vcxproj -> C:\Users\Alex Saenbandith\Desktop\Project12\Debug\Assignment12.exe
+     1>Done Building Project "C:\Users\Alex Saenbandith\Desktop\Project12\Assignment12.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.95
+Time Elapsed 00:00:02.43
